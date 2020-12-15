@@ -43,6 +43,27 @@ client.login("NzUyNzY4MTM5NjIzNzkyNjcw.X1cb9g.mMOZp_Rj8KmL2eVbRjJhgwyfwCs")
 // Found on Glitch Project: qenzycode-site. The bot is in one server.
 client.login("NzY4Nzg2NjM5MTE1NzgwMTE2.X5FiWg.8kc-7jSMU8PNPGqdVKsUnhfU16k")
 
+// Found on Glitch Project: cottony-charming-turnip. The bot is in one server.
+client.login("NzY5OTQ4NDYwMzI0NzQ5Mzcy.X5WcYQ.Ds2hnNQ6kG3N85Nxlw1Hibo-dAE")
+
+// Found on Glitch Project: working-goldenrod. The bot is in no servers.
+client.login("NzMyNTY0MzEyMDUyMzM0NTky.Xw2bsg.8VPyBUhSfZ9qsQYaUfGBOQeVgmE")
+
+// Found on Glitch Project: sneaky-empress-4pugkktxes. The bot is in no servers.
+client.login("Njc5Nzg0ODc4Nzk0ODY2Njk4.Xk2ZDw.SJqYFcWEMPnyiBINcC0eozFSi5g")
+
+// Found on Glitch Project: discordbotd. The bot is in no servers.
+client.login("NzIwMzk3ODY3NDI0MTUzNjQw.XuFY2g.N6gSRwNIbqLpQPZFdETXiGKCv1A")
+
+// Found on Glitch Project: midnight-midnight-anise. The bot is in one server.
+client.login("NzY1Njg3MTYzMjg2NTg1Mzc1.X4YbvQ.sDqOCQFJEHMKMI5WUCrrUcDtnTc")
+
+// Found on Glitch Project: humorous-shore-anise. The bot is in no servers.
+client.login("zE0MTE0OTA5Mzk4NDk5MzI4.Xtao-A.cVjkS9u-MMvG2fjb8zZzNLgiaJ4")
+
+// Found on Glitch Project: thundering-proximal-anise. The bot is in no servers.
+client.login("NzA1MTMwMzY5NjY1NDY2NDAy.XqnOMg.IDaeltbWSWXfKmxM94dvMQPUq2k")
+
 // NOTE: PLEASE PUT YOUR DISCORD BOT TOKENS IN THE .ENV FILE! THIS IS BAD THAT I FOUND A LOT OF DISCORD BOT TOKENS!
 // -- PUT YOUR TOKEN IN .env AND PUT client.login(process.env.TOKEN0 in the bot js file!
 
