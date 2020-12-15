@@ -11,7 +11,9 @@ client.login("NjE0MjY3MDgwMzUwNjI5OTAx.XWqV_A.Md59OZoIfJOxUvq3jlRHqXRnZyE")
 
 // Found on a Glitch Project. Looks like the server that the bot is in got destroyed. The bot is in one server.
 client.login("Nzc5NDg4MjE5NDE3OTM1OTEy.X7hQ-Q.GGNSVfpK482oAGA3xPRH1am2rLo")
-             
+
+// Found on a Glitch Project. looks like the same server that the discord bot above is in. The bot is in the same server as the above one.
+client.login("NzgwNDkwNTc1NjM5MjE2MTM4.X7v2fg.mWsyCuq9GZ3k22p2Ty8d4eS3S9Y")
              
              
              
