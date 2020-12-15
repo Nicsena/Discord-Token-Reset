@@ -69,5 +69,3 @@ client.login("NzYyODg4MjEzOTU3OTY3ODgz.X3vtAw.l4_NLn_5g3n-4ixLWh2J4nUXRx4")
 
 // NOTE: PLEASE PUT YOUR DISCORD BOT TOKENS IN THE .ENV FILE! THIS IS BAD THAT I FOUND A LOT OF DISCORD BOT TOKENS!
 // -- PUT YOUR TOKEN IN .env AND PUT client.login(process.env.TOKEN0 in the bot js file!
-
-// If you want to talk to me on discord, you can, add me: Nicholas#6825 (ID: 270700098621669378)
