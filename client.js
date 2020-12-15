@@ -31,5 +31,8 @@ client.login("Nzg4MTIwMjU1MzE4MzI3MzM2.X9e4Lw.NqNYpdFheyYZ85yLWNi-cc5LUTE");
 // Found on Glitch Project: garrulous-cyclic-trick. The bot is in 10+ servers.
 client.login("NzM0MTY3OTk1NTE3MTA4Mjk1.XxNxOg.vitsm3m6XvYrOOhNqiOjzoD36mE");
 
+// Found on Glitch Project: tricky-vivid-judo. The bot is in 0 servers.
+client.login("NzgwNTMwMTAyMDM0ODkwNzYy.X7wbTQ._WkbfQI69O-VWd_Kd3MeloNxOsI");
+
 
 // If you want to talk to me on discord, you can, add me: Nicholas#6825 (ID: 270700098621669378)
