@@ -4,3 +4,5 @@ client.login("Mzg3NzA0NjYzNTc2ODA1Mzc3.DQyI7A.BCn14rHYD7Oj-qeXAHFjgVQ4pDk")
 client.login("NTU2ODA3OTYwNzQ4MjI4NjQx.D2_HqQ.e_vDh9M-E4chuYLiBjGxWO09Mxs")
 // Found on Glitch Project: juniper-target. The discord bot is in no servers.
 client.login("NTU2ODI0MDkyODk2OTE5NTU2.D2_W9Q.kF_vYerc_30fqW1y3r7cMeRm6_E")
+// Found on Glitch Project: discord-bot-creator. The discord bot is in no servers.
+client.login("NjE0MjY3MDgwMzUwNjI5OTAx.XWqV_A.Md59OZoIfJOxUvq3jlRHqXRnZyE")
