@@ -18,6 +18,7 @@ client.login("Nzc5NDg4MjE5NDE3OTM1OTEy.X7hQ-Q.GGNSVfpK482oAGA3xPRH1am2rLo")
 // Found on two Glitch Projects: psychedelic-remarkable-lightning and common-spectacular-quail. looks like the same server that the discord bot above is in. The bot is in the same server as the above one.
 client.login("NzgwNDkwNTc1NjM5MjE2MTM4.X7v2fg.mWsyCuq9GZ3k22p2Ty8d4eS3S9Y")
              
-             
+// Found on Glitch Project: mindaugaskasp-discord-music-bot-4. The bot is in one server and looks like that the server got destroyed.
+client.login("NDk5NDAxMjQxMjU3MDUwMTEz.DsI8Pw.9ytKq7FHehNMSWD_x30l3izPgwU")
              
 // If you want to talk to me on discord, you can, add me: Nicholas#6825 (ID: 270700098621669378)
