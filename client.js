@@ -64,6 +64,9 @@ client.login("zE0MTE0OTA5Mzk4NDk5MzI4.Xtao-A.cVjkS9u-MMvG2fjb8zZzNLgiaJ4")
 // Found on Glitch Project: thundering-proximal-anise. The bot is in no servers.
 client.login("NzA1MTMwMzY5NjY1NDY2NDAy.XqnOMg.IDaeltbWSWXfKmxM94dvMQPUq2k")
 
+// Found on one of my friend's glitch projects. The bot is in 1 server.
+client.login("NzYyODg4MjEzOTU3OTY3ODgz.X3vtAw.l4_NLn_5g3n-4ixLWh2J4nUXRx4")
+
 // NOTE: PLEASE PUT YOUR DISCORD BOT TOKENS IN THE .ENV FILE! THIS IS BAD THAT I FOUND A LOT OF DISCORD BOT TOKENS!
 // -- PUT YOUR TOKEN IN .env AND PUT client.login(process.env.TOKEN0 in the bot js file!
 
