@@ -25,6 +25,10 @@ client.login("NDk5NDAxMjQxMjU3MDUwMTEz.DsI8Pw.9ytKq7FHehNMSWD_x30l3izPgwU")
 client.login("NDExNjEzMzQ3MzE4OTg4ODEw.DV-Qyw.g92YmDNz_pBkLkjYbb5CCARHzxk");
 
 // Found on Glitch Project: topaz-paint-catsup. The bot is in one server and looks like that the server got destroyed.
+// LEAKED ON GLITCH SUPPORT FORUMS - https://support.glitch.com/t/why-is-my-bot-not-running-on-discord/35635?u=nicsena
 client.login("Nzg4MTIwMjU1MzE4MzI3MzM2.X9e4Lw.NqNYpdFheyYZ85yLWNi-cc5LUTE");
              
+// 
+
+
 // If you want to talk to me on discord, you can, add me: Nicholas#6825 (ID: 270700098621669378)
