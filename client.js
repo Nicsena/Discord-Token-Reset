@@ -20,5 +20,11 @@ client.login("NzgwNDkwNTc1NjM5MjE2MTM4.X7v2fg.mWsyCuq9GZ3k22p2Ty8d4eS3S9Y")
              
 // Found on Glitch Project: mindaugaskasp-discord-music-bot-4. The bot is in one server and looks like that the server got destroyed.
 client.login("NDk5NDAxMjQxMjU3MDUwMTEz.DsI8Pw.9ytKq7FHehNMSWD_x30l3izPgwU")
+
+// Found on the following Glitch Projects: no-use and actually-abrosaurus and zinc-glistening-girdle and wobbly-alive-eclipse and hospitable-wistful-saw and thread-vintage-bookcase and more. The bot is in no servers.
+client.login("NDExNjEzMzQ3MzE4OTg4ODEw.DV-Qyw.g92YmDNz_pBkLkjYbb5CCARHzxk");
+
+// Found on Glitch Project: topaz-paint-catsup. The bot is in one server and looks like that the server got destroyed.
+client.login("Nzg4MTIwMjU1MzE4MzI3MzM2.X9e4Lw.NqNYpdFheyYZ85yLWNi-cc5LUTE");
              
 // If you want to talk to me on discord, you can, add me: Nicholas#6825 (ID: 270700098621669378)
