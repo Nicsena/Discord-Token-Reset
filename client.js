@@ -34,6 +34,8 @@ client.login("NzM0MTY3OTk1NTE3MTA4Mjk1.XxNxOg.vitsm3m6XvYrOOhNqiOjzoD36mE");
 // Found on Glitch Project: tricky-vivid-judo. The bot is in 0 servers.
 client.login("NzgwNTMwMTAyMDM0ODkwNzYy.X7wbTQ._WkbfQI69O-VWd_Kd3MeloNxOsI");
 
+// Found on Glitch Project: zesty-mysterious-walrus. The bot is in 2 servers.
+client.login("NzM0MTIyMjExNzc3OTcwMjQ4.XxNGlg.6kWH49dGpiw2vJPnRMGLC5FHVYY")
 
 // NOTE: PLEASE PUT YOUR DISCORD BOT TOKENS IN THE .ENV FILE! THIS IS BAD THAT I FOUND A LOT OF DISCORD BOT TOKENS!
 // -- PUT YOUR TOKEN IN .env AND PUT client.login(process.env.TOKEN0 in the bot js file!
