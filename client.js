@@ -288,6 +288,9 @@ client.login("Nzg4Njc3NDUzNzIzNTk4OTE4.X9m_HQ.NXebSlaw9_00kVmb4ybderV82sI")
 // The bot is in one server.
 client.login("Nzg1OTk0ODM2OTUxNDMzMjU2.X8_8vA.lMHHi_6Qi3-2EHcMigOXd1cdoKA")
 
+// The bot is in 50+ servers.
+client.login("Nzg3Nzc2OTgwNjYxMDQzMjQx.X9Z4fA.BGrUuy-VGKXK7RFHi_zpP_a_nuM")
+
 // The bot is in one server.
 // Discord Gen. or Discord Generator Bot
 client.login("NzY5NTgyNzk0MTI4NDkwNTE2.X5RH1A.3WqLf_I7t0-ed2mIpyi9HuaY_vs")
