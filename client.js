@@ -285,7 +285,8 @@ client.login("Nzg4Mzk3ODE0MzMyOTE1NzQy.X9i6rg.85LUg0dAUzOloBwtJsAkp-wNp48")
 // The bot is in two servers.
 client.login("Nzg4Njc3NDUzNzIzNTk4OTE4.X9m_HQ.NXebSlaw9_00kVmb4ybderV82sI")
 
-
+// The bot is in one server.
+client.login("Nzg1OTk0ODM2OTUxNDMzMjU2.X8_8vA.lMHHi_6Qi3-2EHcMigOXd1cdoKA")
 
 
 
