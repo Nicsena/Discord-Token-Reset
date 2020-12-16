@@ -221,7 +221,7 @@ client.login("NzgxNTU3NzUyMTExNDMxNjkw.X7_YYA.K2qR353JreM42GItJfg2ewbTpo0")
 client.login("NzU1MzYwNjA3MzE3Nzg2NjM0.X2CKYg.tjQWdjpobPAurhRF4zALmOhIdW4")
 
 // Bot is in one server.
-client.login("Nzg3MjU5MTU5MzA4NjY0ODQy.X9SWOg.MSn0mBh4AhMUpgDHSdVVzWmcMAc')
+client.login("Nzg3MjU5MTU5MzA4NjY0ODQy.X9SWOg.MSn0mBh4AhMUpgDHSdVVzWmcMAc")
 
 // Bot is in one server.
 client.login("Nzg2MjU3NTc1MDE2NTI5OTUx.X9DxbQ.B28dTPoM0SQ3GcWy0xWM2aNkihI")
