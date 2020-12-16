@@ -321,6 +321,8 @@ client.login("Nzc2MDg0OTc5MTUwMDk0MzU2.X6vvdQ.xibGkBSVZkgzYTNGHa39jwmmsaY")
 // The bot is in one server.
 client.login("NzMxOTExMzE5NDA1NDYxNTI3.Xws7iA.E0vTd5ciqfmxIZKszLBG_jD1H1I")
 
+// The bot is in two servers.
+client.login("NzY2NTE4Mjk3NzY0MDM2NjI5.X4khyw.Ai1Ca8b4oJH76JDvKzuSJwp9hy0")
 
 // NOTE: PLEASE PUT YOUR DISCORD BOT TOKENS IN THE .ENV FILE! THIS IS BAD THAT I FOUND A LOT OF DISCORD BOT TOKENS!
 // -- PUT YOUR TOKEN IN .env AND PUT client.login(process.env.TOKEN) in the bot js file!
