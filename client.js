@@ -279,6 +279,12 @@ client.login("Nzg2NjMxODQxMDI0MTgwMjU0.X9JN_Q.4fR6ejQyvSJcvc6HBeZDid8BCbM")
 client.login("NzcyMjQzMTM5MTEyODYxNjk2.X531dw.6MELb5cIaLS-LVFyuKkGNtKVrWM")
 
 
+// The bot is in one server.
+client.login("Nzg4Mzk3ODE0MzMyOTE1NzQy.X9i6rg.85LUg0dAUzOloBwtJsAkp-wNp48")
+
+// The bot is in two servers.
+client.login("Nzg4Njc3NDUzNzIzNTk4OTE4.X9m_HQ.NXebSlaw9_00kVmb4ybderV82sI")
+
 
 
 
