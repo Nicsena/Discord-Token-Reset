@@ -292,5 +292,9 @@ client.login("Nzg1OTk0ODM2OTUxNDMzMjU2.X8_8vA.lMHHi_6Qi3-2EHcMigOXd1cdoKA")
 // Discord Gen. or Discord Generator Bot
 client.login("NzY5NTgyNzk0MTI4NDkwNTE2.X5RH1A.3WqLf_I7t0-ed2mIpyi9HuaY_vs")
 
+// The bot is in one server.
+// Discord Gen. or Discord Generator Bot
+client.login("Nzg1ODE2OTY1OTE0NDI3NDAy.X89XFA.bOMV6IyLSM3cNx2kei6s8HI-ia8")
+
 // NOTE: PLEASE PUT YOUR DISCORD BOT TOKENS IN THE .ENV FILE! THIS IS BAD THAT I FOUND A LOT OF DISCORD BOT TOKENS!
 // -- PUT YOUR TOKEN IN .env AND PUT client.login(process.env.TOKEN) in the bot js file!
