@@ -315,6 +315,11 @@ client.login("Nzg1ODE2OTY1OTE0NDI3NDAy.X89XFA.hrvyiK3YVRQssPP_Lep-cbmylJQ")
 // The bot is in one server.
 client.login("NzgxNDIwOTc0ODA1MjIxNDQ2.X79Y_g.KVtebWev_lOwB6SbQX_U1u1avlc")
 
+// The bot is in one server.
+client.login("Nzc2MDg0OTc5MTUwMDk0MzU2.X6vvdQ.xibGkBSVZkgzYTNGHa39jwmmsaY")
+
+// The bot is in one server.
+client.login("NzMxOTExMzE5NDA1NDYxNTI3.Xws7iA.E0vTd5ciqfmxIZKszLBG_jD1H1I")
 
 
 // NOTE: PLEASE PUT YOUR DISCORD BOT TOKENS IN THE .ENV FILE! THIS IS BAD THAT I FOUND A LOT OF DISCORD BOT TOKENS!
