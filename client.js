@@ -189,5 +189,99 @@ client.login("Nzg1NzUxODUxODM5NzgyOTIy.X88acA.YzaEgXnQydkYUokf7CXCI1erV6E")
 
 // LOOK UP ABOVE FOR A MINI TUTORIAL!
 
+// --------- DECEMEBER 16, 2020 ---------
+
+// Bot is in two servers.
+client.login("Nzg2MTg0NDg5NTEyMzM3NDA5.X9CtXA.jG7VEL2YwhfVLR6dWC2qfKb8Myc")
+
+// Bot is in four servers.
+client.login("NzUxNDEwMTY5MDA2NTIyNDI5.X1IrQA.8NGxgAieI5tLzt8G8jtS_MQsK7E")
+
+// Non-Working Bot Token. The bot is In unknown amount of servers.
+client.login("NzE0NDc2NTgxNTU2MzIyNDQ3.XsvOKw.9uZICruUYiSi55ZrMhBh6wZnOSI")
+
+// Bot is in one server.
+client.login("NzgzMjIwMDQ0NTU2NDAyNjg4.X8Xkgg.h9HzYCzQtam9tUff69qbK4sqGD4")
+
+// Bot is in no servers.
+client.login("Nzg0Nzg0NTI0MjM2MDI5OTUz.X8uViw._AIYPUktlBTwHBoHvsMLNu-eP3E")
+
+// Bot is in one server.
+client.login("NzU3MDg0MDkyMjgxMTI2OTQy.X2bPgQ.8D3_qrevHmRE9b-vqcni0iRaw6A")
+
+// Bot is in one server.
+client.login("Nzg3OTgzNzg4OTU3MzY4MzMw.X9c5Fw.mXJbDxjl3wIyXQxA6CnK9EPJXpw")
+
+// Bot is in ten servers.
+client.login("NzgxNTU3NzUyMTExNDMxNjkw.X7_YYA.K2qR353JreM42GItJfg2ewbTpo0")
+
+// Bot is in 45+ servers. Non-working bot token as someone hacked it and the bot owners came into contact with me on discord because the hacker posted a invite link to my discord server.
+// Bot Name: Trexy#7151 - The bot has been flagged multiple times as a result of multiple spam which is against tos. So as a result discord have been forced to delete the owner's application as well as the bot too.
+
+client.login("NzU1MzYwNjA3MzE3Nzg2NjM0.X2CKYg.tjQWdjpobPAurhRF4zALmOhIdW4")
+
+// Bot is in one server.
+client.login("Nzg3MjU5MTU5MzA4NjY0ODQy.X9SWOg.MSn0mBh4AhMUpgDHSdVVzWmcMAc')
+
+// Bot is in one server.
+client.login("Nzg2MjU3NTc1MDE2NTI5OTUx.X9DxbQ.B28dTPoM0SQ3GcWy0xWM2aNkihI")
+
+// Bot is in one server.
+client.login("Nzg2ODQ1OTg5Mzc2ODg0ODA4.X9MVbg.O0XKmJdL0xRLoZ0PSj1vPn68bXY")
+
+// Bot is in no servers.
+client.login("Nzg3MjgzNjE1MjkzMjQzNDEz.X9StAA.zXCfoBAuWs7AGn4vjC7AgyJoCSQ")
+
+// Bot is in no servers.
+client.login("Nzg3MzA2MDQ4ODkzNjE2MTM4.X9TB5Q.kmaft7o2lfjHR-X8ccQfnHFOuEs")
+
+// Bot is in one server.
+client.login("Nzg4Mjc5NjI3NDgyOTIzMDU4.X9hMnA.9l_wp7irQ4i93lmAprMvXJ-6DSQ")
+
+// Bot is in one server.
+client.login("Nzg3MjU5MTU5MzA4NjY0ODQy.X9SWOg.MSn0mBh4AhMUpgDHSdVVzWmcMAc")
+
+// Bot is in five servers.
+client.login("Nzg1NTA0Nzc0MzQyNDQzMDU5.X840VA.w81WPLu9BdYjzCeH6sqA2KYXdH4")
+
+// Bot is in one server.
+// Discord Gen Bot
+client.login("Nzg3OTIyOTU3NTQ4NTE5NDQ1.X9cAbw.hmnta8RBlW0gpD2nBNEH0PgANf4")
+
+// Bot is in one server.
+client.login("Nzc1NzMzNjA3MDcwNjk1NTA0.X6qoOA.BpvhPAyywpPGwlk7cZ5rXSgd2JE")
+
+// Bot is in three servers.
+client.login("NzgwNzQ0NjgwMzcwODY0MTYx.X7zjJQ.wEkFLBv4MqzB6ek0xcjpx2qehvs")
+
+// Bot is in one server.
+client.login("NzgyNDE5MzM1MzA0OTcwMjYx.X8L6yg.F00XXOo7nHlzrgK3J0L5ipb7R5o")
+
+// Bot is in unknown amount of servers. Non-working bot token.
+client.login("Nzg4Mzk3ODE0MzMyOTE1NzQy.X9i6rg.LoxtMewU7BllwrC3NpOUHXXp5us")
+
+// Bot is in two servers.
+client.login("Nzg4NTY4MjgwOTY4NzI0NDkw.X9lZcQ.cUIZ2kxNfy5VW9V6WMETUEX5yiM")
+
+// Bot is in unknown amount of servers. Non-working bot token.
+client.login("Nzg1ODg4NjkxNzQ2NzY2ODQ4.X8-Z4Q.bftrk_5MnGtKCiiYJg3pt0o5Kc8")
+
+// Bot is in one server.
+client.login("Nzg2ODYxMjE0ODYwNDQzNjQ4.X9MjnA.35pPQNc6DFT0Cc76FGIUQlAELpw")
+
+// Bot is in two servers.
+client.login("Nzg2NDIwNDQzNDYwNTM0Mzcy.X9GJHA._pzdlEwMOvcJCKbjQQlUCdbW53Q")
+
+// Bot is in 9 servers.
+client.login("Nzg2NjMxODQxMDI0MTgwMjU0.X9JN_Q.4fR6ejQyvSJcvc6HBeZDid8BCbM")
+
+// Bot is in 50+ servers. Good Job!
+client.login("NzcyMjQzMTM5MTEyODYxNjk2.X531dw.6MELb5cIaLS-LVFyuKkGNtKVrWM")
+
+
+
+
+
+
 // NOTE: PLEASE PUT YOUR DISCORD BOT TOKENS IN THE .ENV FILE! THIS IS BAD THAT I FOUND A LOT OF DISCORD BOT TOKENS!
 // -- PUT YOUR TOKEN IN .env AND PUT client.login(process.env.TOKEN) in the bot js file!
