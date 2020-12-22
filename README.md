@@ -5,6 +5,8 @@
 # NOTICE
 # This has been discontinued indefinitely. It will be continued again if I do this again temporary.
 
+## If your discord bot has been hacked during this time period where this is put on hold indefinitely. Well, it's your fault for not using `.env` and having your bot's token able to be seen by anyone in a public glitch project.
+
 # Contact:
 ## You can in contact with me at **Nicsena#4021** on Discord.
 ## If you can't get in contact with me, join my [discord server here](https://nsyt.tk/discord) and contact me or Nicholas#6825 there, he may be wondering why that you are DMing him.
