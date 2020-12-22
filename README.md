@@ -2,6 +2,9 @@
 ## Publicly posted discord tokens will be put here so it can be instantly reset and notify the owner.
 ### Look Below for a Mini Tutorial if your bot token got posted here!
 
+# NOTICE
+# This has been discontinued indefinitely. It will be continued again if I do this again temporary.
+
 # Contact:
 ## You can in contact with me at **Nicsena#4021** on Discord.
 ## If you can't get in contact with me, join my [discord server here](https://nsyt.tk/discord) and contact me or Nicholas#6825 there, he may be wondering why that you are DMing him.
